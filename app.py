@@ -2,7 +2,7 @@ import streamlit as st
 st.title('Sentiment Analysis')
 
 import pandas as pd
-data = pd.read_csv('https://github.com/Sarath1908/Sentiment_Analysis_Major_Project/blob/main/imdb.csv')
+data = pd.read_csv('https://raw.githubusercontent.com/Sarath1908/Sentiment_Analysis_Major_Project/main/imdb.csv')
     
 x=data["text"]
 y=data["label"]
