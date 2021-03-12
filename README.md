@@ -1,1 +1,1 @@
-# Sentiment_Analysis_Major_Project
+Sentiment-analysis-deployment
